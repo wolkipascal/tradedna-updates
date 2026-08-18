@@ -1,0 +1,12 @@
+*.env
+*.key
+*.pem
+*.p12
+*.pfx
+*.mobileprovision
+.DS_Store
+Secrets/
+private/
+credentials*
+update-signing.env
+artifacts/
