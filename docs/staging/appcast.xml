@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>TradeDNA</title>
+        <item>
+            <title>1.0.1-beta.1</title>
+            <pubDate>Tue, 18 Aug 2026 15:46:27 +0200</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1-beta.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# TradeDNA 1.0.1-beta.1
+
+Staging beta update for controlled A-to-B validation. Trading, account,
+SQLite, screenshots, and authentication data remain outside the app bundle.
+]]></description>
+            <enclosure url="https://github.com/wolkipascal/tradedna-updates/releases/download/v1.0.1-beta.1/TradeDNA-1.0.1-beta.1.zip" length="3794266" type="application/octet-stream" sparkle:edSignature="uJUbnMpGH5EgStsCtBlV+Hyla2TjxloORXW5okjev77ng1942itE8ux+/EqbMDPGZlIx+YP430kyr4X3bBXLCw=="/>
+        </item>
+    </channel>
+</rss>
